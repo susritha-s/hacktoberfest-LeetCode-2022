@@ -7,3 +7,8 @@
 - Place: Sydney, Australia
 - Bio: Aspiring Programmer
 - GitHub - DrDSnutts
+
+#### Name: Susritha Syamala
+- Place: Hyderabad,India
+- Bio: Engineering Student from IIT(BHU)
+- GitHub: susritha-s
