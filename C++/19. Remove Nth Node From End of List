@@ -1,3 +1,4 @@
+//If you want to see how I got to this Optimized Solution You can Check : https://leetcode.com/problems/remove-nth-node-from-end-of-list/discuss/2634673/brute-force-using-stack-optimization-using-two-pointers
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
