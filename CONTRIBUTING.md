@@ -12,3 +12,8 @@
 - Place: Noida, India
 - Bio: Aspiring Programmer
 - GitHub - imshubh69
+
+#### Name: Anns Shahbaz
+- Place: Lahore, Punjab, Pakistan
+- Bio: Game Develeoper
+- GitHub: Ansi007 (https://github.com/Ansi007)
