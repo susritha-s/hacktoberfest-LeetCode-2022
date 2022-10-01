@@ -14,6 +14,12 @@
 - GitHub - imshubh69
 
 
+#### Name: Mansi
+- Place: Allahabad 
+- Bio: Software Engineer
+- GitHub: mansi0703
+=======
+
 #### Name: Anns Shahbaz
 - Place: Lahore, Punjab, Pakistan
 - Bio: Game Develeoper
