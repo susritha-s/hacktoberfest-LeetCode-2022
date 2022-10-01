@@ -12,3 +12,8 @@
 - Place: Noida, India
 - Bio: Aspiring Programmer
 - GitHub - imshubh69
+
+##### Name - Debak Roy
+- Place: West Bengal, India
+- Bio: CSE undergrad, Techno Main Salt Lake, West Bengal
+- GitHub - @slayeh17
