@@ -14,6 +14,12 @@
 - GitHub - imshubh69
 
 
+##### Name - Debak Roy
+- Place: West Bengal, India
+- Bio: CSE undergrad, Techno Main Salt Lake, West Bengal
+- GitHub - @slayeh17
+=======
+
 #### Name: Mansi
 - Place: Allahabad 
 - Bio: Software Engineer
@@ -41,4 +47,5 @@
 - Place: Mumbai, India
 - Bio: Software Engineer, Btech 3rd Year
 - GitHub - sritikamanjrekar
+
 
