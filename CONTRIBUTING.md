@@ -8,7 +8,8 @@
 - Bio: Aspiring Programmer
 - GitHub - DrDSnutts
 
-##### Name - Susritha Syamala
-- Place: Hyderabad , India
-- Bio: Engineering Student , IIT(BHU)
+##### Name - Susritha
+- Place: Hyderabad, India
+- Bio: Aspiring Programmer
 - GitHub - susritha-s
+
