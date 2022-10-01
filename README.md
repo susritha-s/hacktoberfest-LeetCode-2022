@@ -16,6 +16,17 @@ This event is for Coders as well for NON-Coders too!
  - The accepted languages are :. Java, Python, C, C++, JavaScript, Ruby, Swift, Kotlin. 
 #### - Details about what type of contributions will be accepted are mentioned in the CONTRIBUTING.md file, please refer that else your contribution will not be accepted. <a href = "CONTRIBUTING.md" target="_blank"> click here </a> to open the file.  
 
+## Choose from these tasks
+### 1. Add your name
+Add your name to the `CONTRIBUTORS.md` file using the below convention:
+
+```markdown
+#### Name: [YOUR NAME](GitHub link)
+- Place: City, State, Country
+- Bio: Who are you?
+- GitHub: [GitHub account name](GitHub link)
+```
+
 
 ## About this repository
 - This is Beginner friendly Repo(Repository). You are welcome to Contribute anything here but on certain conditions which I have mentioned above and in the CONTRIBUTING.md file, so please refer it as well.
