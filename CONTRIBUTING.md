@@ -12,3 +12,8 @@
 - Place: Noida, India
 - Bio: Aspiring Programmer
 - GitHub - imshubh69
+
+#### Name: Mansi
+- Place: Allahabad 
+- Bio: Software Engineer
+- GitHub: mansi0703
