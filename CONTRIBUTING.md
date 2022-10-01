@@ -12,3 +12,8 @@
 - Place: Noida, India
 - Bio: Aspiring Programmer
 - GitHub - imshubh69
+
+##### Name - Aman Kumar Yadav
+- Place: Greater Noida, India
+- Bio: Aspiring Programmer, Btech 3rd Year
+- GitHub - Ydvaaman
